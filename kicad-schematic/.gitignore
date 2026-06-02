@@ -1,0 +1,19 @@
+# KiCad auto-save and backup files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+*-backups/
+_autosave-*
+*.lck
+*.bak
+
+# KiCad cache files
+fp-info-cache
+*.kicad_prl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# KiCad history folder
+**/.history
