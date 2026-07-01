@@ -25,7 +25,7 @@ Inputs are sent through Teensy4.1 via CAN bus communication.
 See [kicad-schematic/Teensy_BLDC_Build/Teensy_BLDC_Buld.kicad_sch](kicad-schematic/Teensy_BLDC_Build/Teensy_BLDC_Build.kicad_sch)
 
 ## Status
-- [x] Cycloidal dis design
+- [x] Cycloidal disc design
 - [x] Gearbox housing design
 - [x] Wiring schematic
 - [x] BOM
