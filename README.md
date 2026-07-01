@@ -20,7 +20,7 @@ All CAD designed in OnShape.
 See [BOM/cycloidal_actuator_BOM.xlsx](BOM/cycloidal_actuator_BOM.xlsx)
 
 ## Wiring Schematic
-Inputs are sent through Teensy4.1 via CAN bus communication
+- Inputs are sent through Teensy4.1 via CAN bus communication
 See [kicad-schematic/Teensy_BLDC_Build/Teensy_BLDC_Buld.kicad_sch](kicad-schematic/Teensy_BLDC_Build/Teensy_BLDC_Build.kicad_sch)
 
 ## Status
