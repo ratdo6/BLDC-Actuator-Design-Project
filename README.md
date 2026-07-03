@@ -8,7 +8,7 @@ A custom cycloidal gearbox and actuator designed for a quadruped robot. Built ar
 - **Reduction ratio:** ~9:1 cycloidal gearbox
 - **Motor:** 8308 BLDC
 - **Controller:** Moteus r4.11 via CAN bus
-- **Construction:** FDM Printed in PLA+ on Bambu A1 Mini
+- **Construction:** FDM Printed in PLA+ on Bambu Lab A1 Mini
 
 ## CAD
 All CAD designed in OnShape.
