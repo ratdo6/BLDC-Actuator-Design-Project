@@ -26,6 +26,7 @@ A custom cycloidal gearbox and actuator designed for a quadruped robot. Built ar
 - [x] Cycloidal disc design, [Python visualizer](cycloidal_drive_visualizer/cycloidal_drive_visualizer.py)
 - [x] Actuator design, [CAD](CAD/onshape_link.md)
 - [x] [Bill of materials (BoM)](BOM/cycloidal_actuator_BOM.xlsx) (rough version available)
+- [x] Calibrate Moteus r4.11 controllers to BLDC motors
 - [x] 3D Printed protoype, tolerances dialed
 - [ ] [KiCad PCBA schematic](Kicad-schematic/Teensy_BLDC_Build/Teensy_BLDC_Build.kicad_sch)
 - [ ] Teensy 4.1 software
